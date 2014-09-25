@@ -118,4 +118,15 @@
     "bio": "Bart is an independent consultant, entrepreneur, software developer, writer, and speaker. For the past decade he has built software tools to make the working lives of developers easier. If you're a .NET developer, you might have used some of them.",
 	"twitter": "",
 	"website": ""
+}
+, {
+    "id": "sp20",
+    "first_name": "Red Gate",
+    "last_name": "Team",
+    "company": "Red Gate",
+    "title": "",
+    "profile_url": "img/placeholder.png",
+    "bio": "The Red Gate team are available all day for hands-on demos and chats",
+	"twitter": "http://www.red-gate.com",
+	"website": "redgate"
 }]

@@ -12,7 +12,7 @@
         "instances": [
             {
                 "id": "10001", 
-				"room_id": "Wren suite",
+				"room_id": "Dickens Room",
                 "duration": "30",
                 "date": "2014-10-24",
                 "time": "09:30",
@@ -24,17 +24,17 @@
     {
         "public": true,
         "id": 2,
-        "name": "From Code to Release: DevOps for Developers ",
+        "name": "Four Weddings and a Funeral: ALM and DevOps",
         "code": null,
-        "description": "Session information to be announced by 15 August",
+        "description": "In this session, Brian's going to tell you a story about modern software development and how ALM-application lifecycle management-and DevOps, can change the way you work. While we deal with bits and bytes, the core to a successful software development practice is people.<br><br>With the right amount of process, maturity, and communication, teams can build something great. And like a wedding, there's magic when it goes right. Yet, when it goes wrong, it goes really wrong. You're not required to wear tails or a wedding hat. However, whether you write code, manage a database, lead a team - or even all those things - you'll want to come to this session and grab insight into how you can take your team to the next level to deliver great solutions with less stress.",
         "filters": [],
         "locked": false,
-        "speaker_ids": ["sp20"],
+        "speaker_ids": ["sp4"],
         "attachments": [],
         "instances": [
             {
                 "id": "10001", 
-				"room_id": "Wren suite",
+				"room_id": "Dickens Room",
                 "duration": "60",
                 "date": "2014-10-24",
                 "time": "10:05",
@@ -57,7 +57,7 @@
             {
                 "id": "10001", 
 				"room_id": "Exhibition room",
-                "duration": "20",
+                "duration": "30",
                 "date": "2014-10-24",
                 "time": "11:05",
                 "capacity": 450,
@@ -73,13 +73,13 @@
         "description": "The pace of business is always getting faster and application development moves right with it. But we still deploy databases the same way we did 10 years ago. This session addresses the changes that we need in organizational structure, processes, and technology, to arrive at a nimble, fast, automatable, and continuous database deployment process. We'll use actual customer case studies to illustrate the common methods and the unique context that lead to a continuous delivery process which is best described as a pipeline. You will learn how to customize common practices and tool sets to build a database deployment pipeline unique to your environment, so you can speed up your own database delivery while still protecting your organization's most valuable asset: its data.",
         "filters": [],
         "locked": false,
-        "speaker_ids": ["sp20"],
+        "speaker_ids": ["sp2"],
         "attachments": [],
         "instances": [
             {
                 "id": "10001", 
 				"room_id": "Nelson Room",
-                "duration": "45",
+                "duration": "50",
                 "date": "2014-10-24",
                 "time": "11:35",
                 "capacity": 280,
@@ -95,13 +95,13 @@
         "description": "When things go wrong with a database, it can be the start of the worst day of a DBA's life. Join Steve Jones as he examines the problems uncovered by The DBA Team and how you can prevent them with proactive monitoring and in-depth knowledge of SQL Server.",
         "filters": [],
         "locked": false,
-        "speaker_ids": ["sp20"],
+        "speaker_ids": ["sp1"],
         "attachments": [],
         "instances": [
             {
                 "id": "10001", 
 				"room_id": "Dickens Room",
-                "duration": "45",
+                "duration": "50",
                 "date": "2014-10-24",
                 "time": "11:35",
                 "capacity": 250,
@@ -122,8 +122,8 @@
         "instances": [
             {
                 "id": "10001", 
-				"room_id": "Kitchner Room",
-                "duration": "45",
+				"room_id": "Donne Room",
+                "duration": "50",
                 "date": "2014-10-24",
                 "time": "11:35",
                 "capacity": 48,
@@ -139,7 +139,7 @@
         "description": "Getting your database under version control is ultimately a way of communicating changes and collaborating with team members, maintaining an audit trail and ensuring you always have a version to roll back to. In this session, we'll cover why this gives you and your team a crucial advantage in reducing the risk in your development processes. We'll also discuss another door that your team opens by adopting solid version control: setting up the fundamentals of continuous integration. You will learn what build automation means as a first step towards continuous integration and the value it brings as part of your evolving deployment process.",
         "filters": [],
         "locked": false,
-        "speaker_ids": ["sp20"],
+        "speaker_ids": ["sp1"],
         "attachments": [],
         "instances": [
             {
@@ -156,12 +156,12 @@
     {
         "public": true,
         "id": 8,
-        "name": "tbc: Speaker & session information to be announced by 15 August",
+        "name": "How to speed up .NET and SQL Server web apps",
         "code": null,
-        "description": "",
+        "description": "We all know that websites need to be fast. But how do you juice-up creaking web apps that have been around for a while, without deploying the thermonuclear option - the costly and much-maligned ground-up rewrite?<br><br>Unfortunately this can still prove tricky, especially when the issues lie in the database layer. But help is at hand: I'll show you the techniques that will help you hunt down performance problems in your database and relate them back to your .NET code. That's only half the story, though. We'll also talk about the strategies you can use to fix them, from the relatively simple to the much more involved. You should leave with an arsenal of optimisation tricks for every occasion!",
         "filters": [],
         "locked": false,
-        "speaker_ids": ["sp20"],
+        "speaker_ids": ["sp13"],
         "attachments": [],
         "instances": [
             {
@@ -227,7 +227,7 @@
         "description": "Session abstracts: Build a database deployment pipeline. The pace of business is always getting faster and application development moves right with it. But we still deploy databases the same way we did 10 years ago. This session addresses the changes that we need in organizational structure, processes, and technology, to arrive at a nimble, fast, automatable, and continuous database deployment process. We'll use actual customer case studies to illustrate the common methods and the unique context that lead to a continuous delivery process which is best described as a pipeline. You will learn how to customize common practices and tool sets to build a database deployment pipeline unique to your environment, so you can speed up your own database delivery while still protecting your organization's most valuable asset: its data. Avoiding a DBA's worst days with monitoring",
         "filters": [],
         "locked": false,
-        "speaker_ids": ["sp20"],
+        "speaker_ids": ["sp1"],
         "attachments": [],
         "instances": [
             {
@@ -249,7 +249,7 @@
         "description": "It's one thing to know to look for scans instead of seeks, but if you really want to know what's going on in an execution plan, you need to dive deep. This session covers the basics of reading execution plans, and goes way beyond them, to cover as much of the information available in an execution plan as you will ever need. We'll look at how to interpret parameter sniffing and spot when a JOIN operation is not performing the way you want. We'll use the graphical plan and the XML behind it to thoroughly explore execution plans.",
         "filters": [],
         "locked": false,
-        "speaker_ids": ["sp20"],
+        "speaker_ids": ["sp2"],
         "attachments": [],
         "instances": [
             {
@@ -315,7 +315,7 @@
         "description": "Deploying your database changes to production can be nerve-wracking. We'll discuss methods that take the stress out of the process by ensuring that you practise your deployments before you ever get near production. Automating the deployment and testing processes through your testing and pre-production environments can make the whole experience of production deployments more repeatable, more reliable and more robust. In this session, we'll explore the concept of continuous delivery for databases – what to consider, the challenges, the benefits, the testing, and the crucial approval gates necessary for a reliable production deployment. We'll discuss these and other release strategies as you think about how to evolve your deployment pipeline towards a more automated approach, starting with continuous integration and ending at your production systems.",
         "filters": [],
         "locked": false,
-        "speaker_ids": ["sp20"],
+        "speaker_ids": ["sp2"],
         "attachments": [],
         "instances": [
             {
@@ -337,7 +337,7 @@
         "description": "This is a presentation for the YouTube generation. Come discover a series of 20 SQL tips on a wide variety of topics, including SQL Server Reporting Services, Integration Services, performance tuning, architecture, indexing, management, and tooling. Each tip is about 3-5 minutes long and each one comes with a demo. If you know a tip already, just wait it out for the next. Ike promises you'll learn something.",
         "filters": [],
         "locked": false,
-        "speaker_ids": ["sp20"],
+        "speaker_ids": ["sp5"],
         "attachments": [],
         "instances": [
             {
@@ -376,12 +376,17 @@
     {
         "public": true,
         "id": 18,
-        "name": "Case study: How we rolled out CI using Red Gate tools",
+        "name": "Case study: Slaying the legacy dragon: the benefits of continuous delivery for the database",
         "code": null,
-        "description": "Session information to be announced by 15 August",
+        "description": "Move With Us' legacy database is a dragon of a system, spitting fire at every opportunity, and causing pain with every deployment. This talk describes Move With Us' roll-out of an automated database release process and how it's dramatically improving the reliability of deployments, and freeing up time for critical tasks such as refactoring the legacy database.
+<br><br>You'll learn how the team overcame technical challenges, and how this project is fuelling the aspirations of everyone involved, creating a close-knit band of heroic dragon-slayers in the process.
+<br><br>Learning outcomes
+<br><br>The necessary steps and tools to move from a manual, day-long build-and-deploy process, to an automated one that takes a matter of minutes, and the benefits Move With Us has seen as a result.
+<br><br>The steps you can take to dramatically improve communication with business owners. How we can trace specific schema changes back to the developer, the build, dates, and tickets, and how database updates can be shipped to any environment, safely and on demand.
+<br><br>The positive impact this process has had on team morale and motivation, and how a philosophy of agile continuous improvement is as relevant to people as it is to software.",
         "filters": [],
         "locked": false,
-        "speaker_ids": ["sp20"],
+        "speaker_ids": ["sp8","sp9"],
         "attachments": [],
         "instances": [
             {
@@ -398,12 +403,17 @@
     {
         "public": true,
         "id": 19,
-        "name": "Case study: Speaker & session information to be announced by 15 August",
+        "name": "Case study: Adding reliability and credibility to database development: how we source controlled our database and what we learnt along the way",
         "code": null,
-        "description": "",
+        "description": "At HTEC we had a large development team working – simultaneously – on many projects that used the same database backend. Each project team had their own out-of-sync version of the dev database, and integrating the changes for frequent releases was agonising.<br><br>We'll walk through how we managed to get our databases into source control to painlessly manage changes and deployments – and explain the mistakes we made along the way. You'll learn how to gradually bring your development databases under source control, as well as some of the pitfalls to avoid, and the benefits both in development and deployment.
+<br><br>Learning outcomes
+<br><br>The steps and tools for implementing database source control and rolling it out across your organisation.
+<br><br>How you can achieve a reliable and consistent version of your database that can be installed in minutes.
+<br><br>How using the right tools can achieve an increase in confidence in the code being deployed.
+<br><br>How to demonstrate the improved time between development and deployment, not least in the time required in QA.",
         "filters": [],
         "locked": false,
-        "speaker_ids": ["sp20"],
+        "speaker_ids": ["sp10"],
         "attachments": [],
         "instances": [
             {
