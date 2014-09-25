@@ -378,15 +378,10 @@
         "id": 18,
         "name": "Case study: Slaying the legacy dragon: the benefits of continuous delivery for the database",
         "code": null,
-        "description": "Move With Us' legacy database is a dragon of a system, spitting fire at every opportunity, and causing pain with every deployment. This talk describes Move With Us' roll-out of an automated database release process and how it's dramatically improving the reliability of deployments, and freeing up time for critical tasks such as refactoring the legacy database.
-<br><br>You'll learn how the team overcame technical challenges, and how this project is fuelling the aspirations of everyone involved, creating a close-knit band of heroic dragon-slayers in the process.
-<br><br>Learning outcomes
-<br><br>The necessary steps and tools to move from a manual, day-long build-and-deploy process, to an automated one that takes a matter of minutes, and the benefits Move With Us has seen as a result.
-<br><br>The steps you can take to dramatically improve communication with business owners. How we can trace specific schema changes back to the developer, the build, dates, and tickets, and how database updates can be shipped to any environment, safely and on demand.
-<br><br>The positive impact this process has had on team morale and motivation, and how a philosophy of agile continuous improvement is as relevant to people as it is to software.",
+        "description": "Move With Us' legacy database is a dragon of a system, spitting fire at every opportunity, and causing pain with every deployment. This talk describes Move With Us' roll-out of an automated database release process and how it's dramatically improving the reliability of deployments, and freeing up time for critical tasks such as refactoring the legacy database.<br><br>You'll learn how the team overcame technical challenges, and how this project is fuelling the aspirations of everyone involved, creating a close-knit band of heroic dragon-slayers in the process.<br><br>Learning outcomes<br><br>The necessary steps and tools to move from a manual, day-long build-and-deploy process, to an automated one that takes a matter of minutes, and the benefits Move With Us has seen as a result.<br><br>The steps you can take to dramatically improve communication with business owners. How we can trace specific schema changes back to the developer, the build, dates, and tickets, and how database updates can be shipped to any environment, safely and on demand.<br><br>The positive impact this process has had on team morale and motivation, and how a philosophy of agile continuous improvement is as relevant to people as it is to software.",
         "filters": [],
         "locked": false,
-        "speaker_ids": ["sp8","sp9"],
+        "speaker_ids": ["sp8", "sp9"],
         "attachments": [],
         "instances": [
             {
@@ -405,12 +400,7 @@
         "id": 19,
         "name": "Case study: Adding reliability and credibility to database development: how we source controlled our database and what we learnt along the way",
         "code": null,
-        "description": "At HTEC we had a large development team working – simultaneously – on many projects that used the same database backend. Each project team had their own out-of-sync version of the dev database, and integrating the changes for frequent releases was agonising.<br><br>We'll walk through how we managed to get our databases into source control to painlessly manage changes and deployments – and explain the mistakes we made along the way. You'll learn how to gradually bring your development databases under source control, as well as some of the pitfalls to avoid, and the benefits both in development and deployment.
-<br><br>Learning outcomes
-<br><br>The steps and tools for implementing database source control and rolling it out across your organisation.
-<br><br>How you can achieve a reliable and consistent version of your database that can be installed in minutes.
-<br><br>How using the right tools can achieve an increase in confidence in the code being deployed.
-<br><br>How to demonstrate the improved time between development and deployment, not least in the time required in QA.",
+        "description": "At HTEC we had a large development team working – simultaneously – on many projects that used the same database backend. Each project team had their own out-of-sync version of the dev database, and integrating the changes for frequent releases was agonising.<br><br>We'll walk through how we managed to get our databases into source control to painlessly manage changes and deployments – and explain the mistakes we made along the way. You'll learn how to gradually bring your development databases under source control, as well as some of the pitfalls to avoid, and the benefits both in development and deployment.<br><br>Learning outcomes<br><br>The steps and tools for implementing database source control and rolling it out across your organisation.<br><br>How you can achieve a reliable and consistent version of your database that can be installed in minutes.<br><br>How using the right tools can achieve an increase in confidence in the code being deployed.<br><br>How to demonstrate the improved time between development and deployment, not least in the time required in QA.",
         "filters": [],
         "locked": false,
         "speaker_ids": ["sp10"],
@@ -457,7 +447,7 @@
         "description": "A chance for speakers new and seasoned to take the stage for 10 minutes and present about a database topic that they love and want to share",
         "filters": [],
         "locked": false,
-        "speaker_ids": ["sp20"],
+        "speaker_ids": ["sp6","sp11","sp12"],
         "attachments": [],
         "instances": [
             {
@@ -529,9 +519,9 @@
             {
                 "id": "10001", 
 				"room_id": "Exhibition room",
-                "duration": "20",
+                "duration": "60",
                 "date": "2014-10-24",
-                "time": "17:10",
+                "time": "16:30",
                 "capacity": 450,
                 "attendance": 0
             }
