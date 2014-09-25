@@ -62,6 +62,9 @@
     <Content Include="icons\ios\icon.png">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="img\annette-allen.png">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="img\arrowdown.svg">
       <SubType>Content</SubType>
     </Content>
@@ -74,6 +77,18 @@
     <Content Include="img\ballons_420.png">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="img\brian-randell.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="img\chris-bland.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="img\chris-hinchcliffe.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="img\chris-lennox.png">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="img\davidatkinson.jpg">
       <SubType>Content</SubType>
     </Content>
@@ -83,7 +98,7 @@
     <Content Include="img\footer_720.png">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="img\grant.jpg">
+    <Content Include="img\grant-fritchey.png">
       <SubType>Content</SubType>
     </Content>
     <Content Include="img\hamburger_bw.svg">
@@ -101,10 +116,10 @@
     <Content Include="img\hearton.svg">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="img\ikeellis.jpg">
+    <Content Include="img\ike-ellis.png">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="img\johntheron.jpg">
+    <Content Include="img\john-theron.png">
       <SubType>Content</SubType>
     </Content>
     <Content Include="img\link.svg">
@@ -114,6 +129,9 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="img\no-star.svg">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="img\placeholder.png">
       <SubType>Content</SubType>
     </Content>
     <Content Include="img\search-bg.png">
@@ -146,7 +164,10 @@
     <Content Include="img\staron.svg">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="img\stevejones.jpg">
+    <Content Include="img\steph-middleton.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="img\steve-jones.png">
       <SubType>Content</SubType>
     </Content>
     <Content Include="img\twitter.svg">
