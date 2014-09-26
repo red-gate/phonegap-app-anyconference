@@ -5,10 +5,6 @@
   </description>
   <!--<feature name="http://api.phonegap.com/1.0/device" />
     <feature name="http://api.phonegap.com/1.0/network"/>-->
-  <!--<gap:plugin name="org.apache.cordova.battery-status" />
-  <gap:plugin name="org.apache.cordova.camera" />
-  <gap:plugin name="org.apache.cordova.media-capture" />-->
-  <!--<gap:plugin name="org.apache.cordova.splashscreen" />-->
   <icon src="/icons/android/icon-hdpi.png" gap:density="hdpi" gap:platform="android" />
   <icon src="/icons/android/icon-ldpi.png" gap:density="ldpi" gap:platform="android" />
   <icon src="/icons/android/icon-mdpi.png" gap:density="mdpi" gap:platform="android" />
@@ -29,12 +25,8 @@
   <preference name="load-url-timeout" value="5000" />
   <preference name="splash-screen-duration" value="5000" />
   <preference name="auto-hide-splash-screen" value="true" />
-  <gap:plugin name="org.apache.cordova.console" />
   <gap:plugin name="org.apache.cordova.device" />
   <gap:plugin name="org.apache.cordova.device-orientation" />
-  <gap:plugin name="org.apache.cordova.file" />
-  <gap:plugin name="org.apache.cordova.file-transfer" />
-  <gap:plugin name="org.apache.cordova.globalization" />
   <gap:plugin name="org.apache.cordova.inappbrowser" />
   <gap:plugin name="org.apache.cordova.network-information" />
   <gap:plugin name="org.apache.cordova.dialogs" />
