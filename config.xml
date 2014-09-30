@@ -23,7 +23,7 @@
   <preference name="fullscreen" value="false" />
   <preference name="webviewbounce" value="false" />
   <preference name="load-url-timeout" value="5000" />
-  <preference name="splash-screen-duration" value="5000" />
+  <preference name="splash-screen-duration" value="0" />
   <preference name="auto-hide-splash-screen" value="true" />
   <gap:plugin name="org.apache.cordova.device" />
   <gap:plugin name="org.apache.cordova.device-orientation" />

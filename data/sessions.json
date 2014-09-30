@@ -26,7 +26,7 @@
         "id": 2,
         "name": "Four Weddings and a Funeral: ALM and DevOps",
         "code": null,
-        "description": "In this session, Brian's going to tell you a story about modern software development and how ALM-application lifecycle management-and DevOps, can change the way you work. While we deal with bits and bytes, the core to a successful software development practice is people.<br><br>With the right amount of process, maturity, and communication, teams can build something great. And like a wedding, there's magic when it goes right. Yet, when it goes wrong, it goes really wrong. You're not required to wear tails or a wedding hat. However, whether you write code, manage a database, lead a team - or even all those things - you'll want to come to this session and grab insight into how you can take your team to the next level to deliver great solutions with less stress.",
+        "description": "In this session, Brian's going to tell you a story about modern software development and how ALM-application lifecycle management-and DevOps, can change the way you work. While we deal with bits and bytes, the core to a successful software development practice is people. With the right amount of process, maturity, and communication, teams can build something great. And like a wedding, there's magic when it goes right. Yet, when it goes wrong, it goes really wrong. You're not required to wear tails or a wedding hat. However, whether you write code, manage a database, lead a team - or even all those things - you'll want to come to this session and grab insight into how you can take your team to the next level to deliver great solutions with less stress.",
         "filters": [],
         "locked": false,
         "speaker_ids": ["sp4"],
@@ -381,7 +381,7 @@
         "description": "Move With Us' legacy database is a dragon of a system, spitting fire at every opportunity, and causing pain with every deployment. This talk describes Move With Us' roll-out of an automated database release process and how it's dramatically improving the reliability of deployments, and freeing up time for critical tasks such as refactoring the legacy database.<br><br>You'll learn how the team overcame technical challenges, and how this project is fuelling the aspirations of everyone involved, creating a close-knit band of heroic dragon-slayers in the process.<br><br>Learning outcomes<br><br>The necessary steps and tools to move from a manual, day-long build-and-deploy process, to an automated one that takes a matter of minutes, and the benefits Move With Us has seen as a result.<br><br>The steps you can take to dramatically improve communication with business owners. How we can trace specific schema changes back to the developer, the build, dates, and tickets, and how database updates can be shipped to any environment, safely and on demand.<br><br>The positive impact this process has had on team morale and motivation, and how a philosophy of agile continuous improvement is as relevant to people as it is to software.",
         "filters": [],
         "locked": false,
-        "speaker_ids": ["sp8", "sp9"],
+        "speaker_ids": ["sp8","sp9"],
         "attachments": [],
         "instances": [
             {
