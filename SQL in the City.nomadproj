@@ -11,7 +11,7 @@
     <RootNamespace>Conference</RootNamespace>
     <ProjectGuid>{8f6de111-4dd5-4beb-933b-d364a078e7a3}</ProjectGuid>
     <LastBuildVersion>1.0.0.80</LastBuildVersion>
-    <Version>1.0.0.*</Version>
+    <Version>1.0.*</Version>
     <BundleID>com.redgate.sitc</BundleID>
     <Description />
     <ProjectName>SQL in the City</ProjectName>
