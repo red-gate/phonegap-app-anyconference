@@ -1,6 +1,28 @@
 [
     {
         "public": true,
+        "id": 0,
+        "name": "Registration",
+        "code": null,
+        "description": "",
+        "filters": [],
+        "locked": false,
+        "speaker_ids": ["sp20"],
+        "attachments": [],
+        "instances": [
+            {
+                "id": "10001", 
+				"room_id": "Dickens Room",
+                "duration": "45",
+                "date": "2014-10-24",
+                "time": "08:45",
+                "capacity": 450,
+                "attendance": 0
+            }
+        ]
+    },
+    {
+        "public": true,
         "id": 1,
         "name": "Welcome and Keynote: Shipoften, shipsafe",
         "code": null,
@@ -134,7 +156,7 @@
     {
         "public": true,
         "id": 7,
-        "name": "Version control and CI fundamentals for databases",
+        "name": "Version control for databases",
         "code": null,
         "description": "Getting your database under version control is ultimately a way of communicating changes and collaborating with team members, maintaining an audit trail and ensuring you always have a version to roll back to. In this session, we'll cover why this gives you and your team a crucial advantage in reducing the risk in your development processes. We'll also discuss another door that your team opens by adopting solid version control: setting up the fundamentals of continuous integration. You will learn what build automation means as a first step towards continuous integration and the value it brings as part of your evolving deployment process.",
         "filters": [],
@@ -200,7 +222,7 @@
     {
         "public": true,
         "id": 10,
-        "name": "Break",
+        "name": "Lunch",
         "code": null,
         "description": "Lunch, plus demos, discussion groups, and networking",
         "filters": [],
@@ -224,7 +246,7 @@
         "id": 11,
         "name": "Get testing with tSQLt – practical examples and automation",
         "code": null,
-        "description": "Session abstracts: Build a database deployment pipeline. The pace of business is always getting faster and application development moves right with it. But we still deploy databases the same way we did 10 years ago. This session addresses the changes that we need in organizational structure, processes, and technology, to arrive at a nimble, fast, automatable, and continuous database deployment process. We'll use actual customer case studies to illustrate the common methods and the unique context that lead to a continuous delivery process which is best described as a pipeline. You will learn how to customize common practices and tool sets to build a database deployment pipeline unique to your environment, so you can speed up your own database delivery while still protecting your organization's most valuable asset: its data. Avoiding a DBA's worst days with monitoring",
+        "description": "tSQLt is a testing framework designed to help you write repeatable, isolated tests against your database code. In this session, we will briefly examine the goals of testing, where it can be used in an automated deployment pipeline, and introduce you to the tSQLt framework.\n\nYou'll learn how to incrementally write tests that help you build higher quality code and minimize the introduction of errors against your existing objects. We'll show you how to design and write tests to enforce standards, check calculations and other DML operations, and check exception handling. Plus, you'll see how a real world refactoring task can be tested in a repeatable manner.",
         "filters": [],
         "locked": false,
         "speaker_ids": ["sp1"],
@@ -378,7 +400,7 @@
         "id": 18,
         "name": "Case study: Slaying the legacy dragon: the benefits of continuous delivery for the database",
         "code": null,
-        "description": "Move With Us' legacy database is a dragon of a system, spitting fire at every opportunity, and causing pain with every deployment. This talk describes Move With Us' roll-out of an automated database release process and how it's dramatically improving the reliability of deployments, and freeing up time for critical tasks such as refactoring the legacy database.\n\nYou'll learn how the team overcame technical challenges, and how this project is fuelling the aspirations of everyone involved, creating a close-knit band of heroic dragon-slayers in the process.\n\nLearning outcomes\n\nThe necessary steps and tools to move from a manual, day-long build-and-deploy process, to an automated one that takes a matter of minutes, and the benefits Move With Us has seen as a result.\n\nThe steps you can take to dramatically improve communication with business owners. How we can trace specific schema changes back to the developer, the build, dates, and tickets, and how database updates can be shipped to any environment, safely and on demand.\n\nThe positive impact this process has had on team morale and motivation, and how a philosophy of agile continuous improvement is as relevant to people as it is to software.",
+        "description": "Move With Us' legacy database is a dragon of a system, spitting fire at every opportunity, and causing pain with every deployment. This talk describes Move With Us' roll-out of an automated database release process and how it's dramatically improving the reliability of deployments, and freeing up time for critical tasks such as refactoring the legacy database.\n\nYou'll learn how the team overcame technical challenges, and how this project is fuelling the aspirations of everyone involved, creating a close-knit band of heroic dragon-slayers in the process.\n\n\n\nLearning outcomes\n\n\n\nThe necessary steps and tools to move from a manual, day-long build-and-deploy process, to an automated one that takes a matter of minutes, and the benefits Move With Us has seen as a result.\n\nThe steps you can take to dramatically improve communication with business owners. How we can trace specific schema changes back to the developer, the build, dates, and tickets, and how database updates can be shipped to any environment, safely and on demand.\n\nThe positive impact this process has had on team morale and motivation, and how a philosophy of agile continuous improvement is as relevant to people as it is to software.",
         "filters": [],
         "locked": false,
         "speaker_ids": ["sp8","sp9"],
@@ -400,7 +422,7 @@
         "id": 19,
         "name": "Case study: Adding reliability and credibility to database development: how we source controlled our database and what we learnt along the way",
         "code": null,
-        "description": "At HTEC we had a large development team working – simultaneously – on many projects that used the same database backend. Each project team had their own out-of-sync version of the dev database, and integrating the changes for frequent releases was agonising.\n\nWe'll walk through how we managed to get our databases into source control to painlessly manage changes and deployments – and explain the mistakes we made along the way. You'll learn how to gradually bring your development databases under source control, as well as some of the pitfalls to avoid, and the benefits both in development and deployment.\n\nLearning outcomes\n\nThe steps and tools for implementing database source control and rolling it out across your organisation.\n\nHow you can achieve a reliable and consistent version of your database that can be installed in minutes.\n\nHow using the right tools can achieve an increase in confidence in the code being deployed.\n\nHow to demonstrate the improved time between development and deployment, not least in the time required in QA.",
+        "description": "At HTEC we had a large development team working – simultaneously – on many projects that used the same database backend. Each project team had their own out-of-sync version of the dev database, and integrating the changes for frequent releases was agonising.\n\nWe'll walk through how we managed to get our databases into source control to painlessly manage changes and deployments – and explain the mistakes we made along the way. You'll learn how to gradually bring your development databases under source control, as well as some of the pitfalls to avoid, and the benefits both in development and deployment.\n\n\n\nLearning outcomes\n\n\n\nThe steps and tools for implementing database source control and rolling it out across your organisation.\n\nHow you can achieve a reliable and consistent version of your database that can be installed in minutes.\n\nHow using the right tools can achieve an increase in confidence in the code being deployed.\n\nHow to demonstrate the improved time between development and deployment, not least in the time required in QA.",
         "filters": [],
         "locked": false,
         "speaker_ids": ["sp10"],
@@ -444,7 +466,7 @@
         "id": 21,
         "name": "Community lightning talks",
         "code": null,
-        "description": "A chance for speakers new and seasoned to take the stage for 10 minutes and present about a database topic that they love and want to share",
+        "description": "A chance for speakers new and seasoned to take the stage for 10 minutes and present about a database topic that they love and want to share\n\n\Annette Allen\nWhats hot and what's not when writing unit tests\n\nDavid Williams\nSQL Server 2014 new features (not Hekaton!)\n\nChris Bland\nDataQA - showing data problems right down to rows and values\n\nGrant Fritchey and Steve Jones\nThe SQL Prompt challenge",
         "filters": [],
         "locked": false,
         "speaker_ids": ["sp6","sp11","sp12"],
@@ -457,28 +479,6 @@
                 "date": "2014-10-24",
                 "time": "16:40",
                 "capacity": 250,
-                "attendance": 0
-            }
-        ]
-    },
-    {
-        "public": true,
-        "id": 22,
-        "name": "Break",
-        "code": null,
-        "description": "Drinks, networking, and discussions with Red Gaters",
-        "filters": [],
-        "locked": false,
-        "speaker_ids": ["sp20"],
-        "attachments": [],
-        "instances": [
-            {
-                "id": "10001", 
-				"room_id": "Exhibition room",
-                "duration": "30",
-                "date": "2014-10-24",
-                "time": "16:40",
-                "capacity": 450,
                 "attendance": 0
             }
         ]
@@ -508,7 +508,7 @@
     {
         "public": true,
         "id": 24,
-        "name": "Break",
+        "name": "Prize draw, continued networking, and drinks",
         "code": null,
         "description": "Prize draw, continued networking, and drinks",
         "filters": [],
