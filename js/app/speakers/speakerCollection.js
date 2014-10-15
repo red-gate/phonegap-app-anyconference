@@ -32,9 +32,9 @@ define(function(require, exports, module) {
 				speakerData.full_name = speakerData.first_name + ' ' + speakerData.last_name;
 				speakerArr.push( speakerData );
 			}
-			speakerArr.sort(function(a, b) {
+			/*speakerArr.sort(function(a, b) {
 			    return a.last_name > b.last_name ? 1 : -1;
-			});
+			});*/
             return speakerArr;
         },
         

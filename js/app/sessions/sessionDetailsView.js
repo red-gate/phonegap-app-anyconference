@@ -94,12 +94,16 @@ define(function(require, exports, module) {
 			    sessionSpeakers.push( speakerCollection.get( speakerId ) );
 			}
 			
+			var _details = modelData.details;
+			_details = _details.replace("\\n", "<br>");
+			console.log(_details);
+
 			var templateValues = {
 				title: modelData.title,
 				subtitle: subtitle,
 				startTime: startTime,
 				endTime: endTime,
-				details: modelData.details,
+				details: _details,
 				speakers: sessionSpeakers
 			};
 			

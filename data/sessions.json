@@ -466,7 +466,7 @@
         "id": 21,
         "name": "Community lightning talks",
         "code": null,
-        "description": "A chance for speakers new and seasoned to take the stage for 10 minutes and present about a database topic that they love and want to share\n\n\Annette Allen\nWhats hot and what's not when writing unit tests\n\nDavid Williams\nSQL Server 2014 new features (not Hekaton!)\n\nChris Bland\nDataQA - showing data problems right down to rows and values\n\nGrant Fritchey and Steve Jones\nThe SQL Prompt challenge",
+        "description": "A chance for speakers new and seasoned to take the stage for 10 minutes and present about a database topic that they love and want to share \n\n Annette Allen \n Whats hot and what's not when writing unit tests \n\n David Williams \n SQL Server 2014 new features (not Hekaton!) \n\n Chris Bland \n DataQA - showing data problems right down to rows and values \n\n Grant Fritchey and Steve Jones \n The SQL Prompt challenge",
         "filters": [],
         "locked": false,
         "speaker_ids": ["sp6","sp11","sp12"],
