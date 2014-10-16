@@ -38,7 +38,7 @@
     "bio": "With over 17 years of experience in databases and a current Microsoft MVP,  Ike has been Microsoft certified since the beginning, currently holding an MCDBA, MCSE, MCSD, and MCT. Ike is currently partner at The Monastery, a software studio with a location in Phoenix. He speaks, writes, and thinks about data all day long.",
 	"twitter": "ike_ellis",
 	"website": "http://www.ikeellis.com/"
-}, {
+},{
     "id": "sp6",
     "first_name": "Annette",
     "last_name": "Allen",
@@ -58,7 +58,7 @@
     "bio": "John's association with Red Gate began in 2006 when he served on Red Gate's first Council of Advisors, and he joined Red Gate full-time in 2011. John has over 20 years of experience in product management and general management positions in large and small software companies including Wonderware, Quest and Rockwell Automation.",
 	"twitter": "",
 	"website": "http://www.red-gate.com"
-}, {
+},{
     "id": "sp8",
     "first_name": "Chris",
     "last_name": "Hinchcliffe",
@@ -68,7 +68,7 @@
     "bio": "Chris has worked with SQL Server since 2006 and currently holds MCTS, MCITP & MCSA certifications. He has been key in implementing source control and continuous integration into the database development lifecycle at Move with Us.",
 	"twitter": "",
 	"website": ""
-}, {
+},{
     "id": "sp9",
     "first_name": "Chris",
     "last_name": "Lennox-Smith",
@@ -78,7 +78,7 @@
     "bio": "Chris has worked in IT for 13 years and has always worked with SQL Server.  A confirmed Jack of all trades, Chris now has the job of making sure that the build, the whole build and nothing but the build is deployed.",
 	"twitter": "",
 	"website": ""
-}, {
+},{
     "id": "sp10",
     "first_name": "Steph",
     "last_name": "Middleton",
@@ -88,7 +88,7 @@
     "bio": "Steph is a SQL Server and BI Developer working for a SaaS vendor based in Southampton, delivering enterprise class services that integrate with their customers systems. Currently Steph is leading the migration to SQL Server 2012 of a large scale solution using the whole Microsoft SQL Server Stack, making heavy use of Red Gate products to speed the build, test and deployment process.",
 	"twitter": "",
 	"website": ""
-}, {
+},{
     "id": "sp11",
     "first_name": "Chris",
     "last_name": "Bland",
@@ -98,7 +98,7 @@
     "bio": "Chris co-founded Business Data Quality where he has written and sold data analysis and monitoring products from scratch, to enterprise customers such as Swiss Re, Tokio Marine Insurance, Lloyd's, BPP, and the Atomic Weapons Establishment. Chris has years of experience in product architecture and design, with particular familiarity regarding the .NET product stack. Currently, he is focused on the .NET technology stack and creating performant, extensible data governance solutions that can help companies and business users understand how and where data quality is affecting business processes.",
 	"twitter": "",
 	"website": ""
-}, {
+},{
     "id": "sp12",
     "first_name": "David",
     "last_name": "Williams",
@@ -108,7 +108,7 @@
     "bio": "David is a cross product DBA (SQL Server, DB2, Oracle, Informix, Sybase) who has worked as a DBA for 20 years for both private, local government and central government customers, and now works at a leading investment bank. Certifications include MCSE 2012 Data Platform, MCTS SQL Server 2008 DBA and Developer as well as certifications in other products.",
 	"twitter": "",
 	"website": ""
-}, {
+},{
     "id": "sp13",
     "first_name": "Bart",
     "last_name": "Read",
@@ -118,8 +118,7 @@
     "bio": "Bart is an independent consultant, entrepreneur, software developer, writer, and speaker. For the past decade he has built software tools to make the working lives of developers easier. If you're a .NET developer, you might have used some of them.",
 	"twitter": "",
 	"website": ""
-}
-, {
+},{
     "id": "sp20",
     "first_name": "Red Gate",
     "last_name": "Team",

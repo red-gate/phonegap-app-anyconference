@@ -14,7 +14,7 @@
   <icon src="/res/icon/icon.png" width="57" height="57" gap:platform="ios" />
   <author email="james.m.billings@gmail.com">james.m.billings@gmail.com</author>
   <access origin="*" />
-  <preference name="phonegap-version" value="3.5.0" />
+  <preference name="phonegap-version" value="3.3.0" />
   <preference name="prerendered-icon" value="true" />
   <preference name="orientation" value="portrait" />
   <preference name="target-device" value="handset" />

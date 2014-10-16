@@ -95,7 +95,7 @@ define(function(require, exports, module) {
 			}
 			
 			var _details = modelData.details;
-			_details = _details.replace("\\n", "<br>");
+			_details = _details.replace(new RegExp('\r?\n', 'g'), '<br />');
 			console.log(_details);
 
 			var templateValues = {
