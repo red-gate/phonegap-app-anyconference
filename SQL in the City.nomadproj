@@ -11,7 +11,7 @@
     <RootNamespace>Conference</RootNamespace>
     <ProjectGuid>{8f6de111-4dd5-4beb-933b-d364a078e7a3}</ProjectGuid>
     <LastBuildVersion>1.0.3</LastBuildVersion>
-    <Version>1.0.3</Version>
+    <Version>1.0.5</Version>
     <BundleID>com.redgate.sitc</BundleID>
     <Description />
     <ProjectName>SQL in the City</ProjectName>
@@ -77,6 +77,9 @@
     <Content Include="img\ballons_420.png">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="img\bob-pusateri.png">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="img\brian-randell.png">
       <SubType>Content</SubType>
     </Content>
@@ -92,13 +95,22 @@
     <Content Include="img\davidatkinson.jpg">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="img\ed-leighton-dick.png">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="img\event-logo.png">
       <SubType>Content</SubType>
     </Content>
     <Content Include="img\footer_720.png">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="img\gail-shaw.png">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="img\grant-fritchey.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="img\gus-iverson.png">
       <SubType>Content</SubType>
     </Content>
     <Content Include="img\hamburger_bw.svg">
@@ -122,7 +134,19 @@
     <Content Include="img\john-theron.png">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="img\kevin-boles.png">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="img\link.svg">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="img\matt-slocum.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="img\mickey-stewue.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="img\murilo-miranda.png">
       <SubType>Content</SubType>
     </Content>
     <Content Include="img\no-heart.svg">
@@ -168,6 +192,9 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="img\steve-jones.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="img\tony-davis.png">
       <SubType>Content</SubType>
     </Content>
     <Content Include="img\twitter.svg">

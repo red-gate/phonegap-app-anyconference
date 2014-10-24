@@ -19,16 +19,6 @@
 	"twitter": "way0utwest",
 	"website": "http://www.sqlservercentral.com/"
 },{
-    "id": "sp4",
-    "first_name": "Brian",
-    "last_name": "A. Randell",
-    "company": "MCW Technologies",
-    "title": "",
-    "profile_url": "img/brian-randell.png",
-    "bio": "Brian is a Partner with MCW Technologies LLC. For more than 20 years he has been building software solutions. He educates teams on Microsoft technologies via writing and training - both in-person and on demand. He's also a consultant for companies small and large, worldwide, including Fortune 100 companies like Microsoft. Brian is a passionate software craftsman who still enjoys coding as he helps teams to improve their processes from idea to shipping to production management and monitoring. He's currently a Visual Studio ALM MVP and co-author of \"Professional Application Lifecycle Management with Visual Studio 2013\" from Wrox Publishing.",
-	"twitter": "brianrandell",
-	"website": "http://mcwtech.com/blogs/brianr/"
-},{
     "id": "sp5",
     "first_name": "Ike",
     "last_name": "Ellis",
@@ -40,14 +30,94 @@
 	"website": "http://www.ikeellis.com/"
 },{
     "id": "sp6",
-    "first_name": "Annette",
-    "last_name": "Allen",
-    "company": "First Databank",
-    "title": "Database Developer",
-    "profile_url": "img/annette-allen.png",
-    "bio": "Annette has been a SQL Developer since 2000. Her background is in SQL development and team management. For the past 18 months she has been a SQL Database Developer. When not working with SQL, she assists with the running of SQLSouthWest, the Cornwall/Devon/Somerset SQL User Group based in Exeter. She has recently started writing for Simple-Talk and is writing a series of articles on SSIS.",
-	"twitter": "Mrs_Fatherjack",
+    "first_name": "Gail",
+    "last_name": "Shaw",
+    "company": "Xpertease",
+    "title": "Consultant",
+    "profile_url": "img/gail-shaw.png",
+    "bio": "Gail is a database consultant, specialising in performance tuning and database optimisation. Before moving to consulting she worked at a large South African investment bank and was responsible for the performance of the major systems there. Gail is a Microsoft Certified Master for SQL Server 2008 and a frequent poster and author for the SQLServerCentral forums. She has presented multiple times at both TechEd Africa and the PASS Community Summit. She was awarded MVP for SQL Server in July 2008.",
+	"twitter": "SQLintheWild",
+	"website": "http://http://sqlinthewild.co.za/"
+},{
+    "id": "sp8",
+    "first_name": "Tony",
+    "last_name": "Davis",
+    "company": "Simple-Talk",
+    "title": "Editor",
+    "profile_url": "img/tony-davis.png",
+    "bio": "Tony edits articles and writes editorials for both the Simple-talk.com and SQLServerCentral.com websites and newsletters, with a combined audience of over 1.5 million subscribers.  Tony specializes in databases, and especially SQL Server. As the editor behind most of the SQL Server books published by Red Gate, he spends much of his time helping others express what they know about SQL Server. He is also the lead author of the book, SQL Server Transaction Log Management. In his spare time, he enjoys running, football, contemporary fiction and real ale.",
+	"twitter": "",
+	"website": "http://www.simple-talk.com"
+},{
+    "id": "sp9",
+    "first_name": "Matt",
+    "last_name": "Slocum",
+    "company": "",
+    "title": "SQL Server Database Administrator",
+    "profile_url": "img/matt-slocum.png",
+    "bio": "Matt is a SQL Server Database Administrator, MCITP: SQL Server 2005 & 2008, MCSE Data Platform SQL Server 2012, and has been working with SQL Server for 10 years (SQL Server 6.5 - 2014).  Matt specializes in SQL replication and performance tuning/troubleshooting, and is the leader of Rochester PASS SSUG (the Rochester, NY chapter of the Professional Association for SQL Server).  In 2012 he worked with other passionate members of the local group to successfully organize an annual SQL Saturday event in Rochester, NY (the third successful event took place this past June).  He presents periodically at SSUG meetings and SQL Saturdays and his blog can be found at www.sqlmatt.com.",
+	"twitter": "SlocumMatt",
+	"website": "http://www.sqlmatt.com"
+},{
+    "id": "sp10",
+    "first_name": "Mickey",
+    "last_name": "Stuewe",
+    "company": "",
+    "title": "Database Architect",
+    "profile_url": "img/mickey-stuewe.png",
+    "bio": "Mickey Stuewe is a Database Architect. Her focus is on database modeling, T-SQL optimization, and report design using the SQL Server stack. She is the recent recipient of the “Best New Community Voice” Tribal award from Red Gate. She blogs regularly and co-authored her first book, SQL Server 2012 Reporting Services Blueprints. She has spoken at Dev Connections, SQL in the City 2013, and various SQL Saturday Events. She is also the co-leader and founder of the BIG PASS Community user group.",
+	"twitter": "SQLMickey",
+	"website": "http://mickeystuewe.com"
+},{
+    "id": "sp11",
+    "first_name": "Kevin",
+    "last_name": "Boles",
+    "company": "",
+    "title": "Consultant",
+    "profile_url": "img/kevin-boles.png",
+    "bio": "Kevin is a SQL Server expert, working exclusively with the product since v6.5. With over 20 years of database experience and almost 45,000 man hours of SQL Server engine experience, he holds many related certifications, is an MCT and was a SQL Server MVP from 2007 to 2012. He has been a very successful independent consultant for over 15 years. Kevin is also a very frequent speaker, having presented at countless User Groups and over 75 SQL Saturday conferences! His passion is the relational engine, especially designing, building, analyzing and tuning high-performance database applications.",
+	"twitter": "TheSQLGuru",
 	"website": ""
+},{
+    "id": "sp12",
+    "first_name": "Gus",
+    "last_name": "Iverson",
+    "company": "A Place for Mom",
+    "title": "Software Engineering Manager",
+    "profile_url": "img/gus-iverson.png",
+    "bio": "With more than 20 years of experience in software development, Gus is an accomplished senior project leader with expertise in managing Agile delivery teams, driving strategic product road-map initiatives and building scalable websites. His past engineering experience helps him to understand technical project realities, and gives him unique insight into process improvement and workflow development. APFM is a thriving, high-growth company in its 14th year that is investing in the right technical infrastructure and in building an effective and creative team focused on technical excellence. Gus has an honest, open door approach to leadership, and fully supports his employees and their goals.",
+	"twitter": "",
+	"website": ""
+},{
+    "id": "sp13",
+    "first_name": "Ed",
+    "last_name": "Leighton-Dick",
+    "company": "Kingfisher Technologies",
+    "title": "Founder/Principal Consultant",
+    "profile_url": "img/ed-leighton-dick.png",
+    "bio": "Ed Leighton-Dick is a SQL Server performance and architecture expert with over twenty-three years of experience in development, database administration, and system administration.  In 2014, he founded Kingfisher Technologies, a consultancy focused on SQL Server performance, architecture, and security. Ed volunteers his time with the Professional Association for SQL Server (PASS), including long-standing roles as chapter leader of I-380 PASS SQL Server User Group and organizer of SQL Saturday Iowa City.  He can often be found teaching sessions at local, regional, and national events, including user groups, SQL Saturday events, and Iowa Code Camp.  Outside of work, he is a devoted husband, father of two beautiful girls, and beginning runner.",
+	"twitter": "eleightondick",
+	"website": "http://edleightondick.com"
+},{
+    "id": "sp14",
+    "first_name": "Murilo",
+    "last_name": "Miranda",
+    "company": "Pythian",
+    "title": "SQL Server MVP",
+    "profile_url": "img/murilo-miranda.png",
+    "bio": "Murilo Miranda is a SQL Server MVP, Brazilian, living in Portugal since 1998. Currently he's a  database consultant at Pythian, a data consulting and services company based in Canada. He also worked in The Netherlands. Always available to learn and share knowledge, he's one of the authors writing at SQL.PT, a Portuguese SQL Server blog.",
+	"twitter": "@murilocmiranda",
+	"website": ""
+},{
+    "id": "sp15",
+    "first_name": "Bob",
+    "last_name": "Pusateri",
+    "company": "Northwestern University",
+    "title": "Microsoft Certified Master",
+    "profile_url": "img/bob-pusateri.png",
+    "bio": "Bob Pusateri is a Microsoft Certified Master and has been working with SQL Server for over 9 years. He is currently a database administrator at Northwestern University in Chicago, where he is in charge of their Medical Enterprise Data Warehouse. Bob is an active member of PASS and Co-President of the Chicago SQL Server User Group. His interests involve internals, performance optimization, and VLDBs.",
+	"twitter": "SQLBob",
+	"website": "http://bobpusateri.com"
 },{
     "id": "sp3",
     "first_name": "John",
@@ -59,64 +129,14 @@
 	"twitter": "",
 	"website": "http://www.red-gate.com"
 },{
-    "id": "sp8",
-    "first_name": "Chris",
-    "last_name": "Hinchcliffe",
-    "company": "Move With Us",
-    "title": "Database Designer/Administrator",
-    "profile_url": "img/chris-hinchcliffe.png",
-    "bio": "Chris has worked with SQL Server since 2006 and currently holds MCTS, MCITP & MCSA certifications. He has been key in implementing source control and continuous integration into the database development lifecycle at Move with Us.",
-	"twitter": "",
-	"website": ""
-},{
-    "id": "sp9",
-    "first_name": "Chris",
-    "last_name": "Lennox-Smith",
-    "company": "Move With Us",
-    "title": "Build and Release Manager",
-    "profile_url": "img/chris-lennox.png",
-    "bio": "Chris has worked in IT for 13 years and has always worked with SQL Server.  A confirmed Jack of all trades, Chris now has the job of making sure that the build, the whole build and nothing but the build is deployed.",
-	"twitter": "",
-	"website": ""
-},{
-    "id": "sp10",
-    "first_name": "Steph",
-    "last_name": "Middleton",
-    "company": "HTEC",
-    "title": "Software Developer",
-    "profile_url": "img/steph-middleton.png",
-    "bio": "Steph is a SQL Server and BI Developer working for a SaaS vendor based in Southampton, delivering enterprise class services that integrate with their customers systems. Currently Steph is leading the migration to SQL Server 2012 of a large scale solution using the whole Microsoft SQL Server Stack, making heavy use of Red Gate products to speed the build, test and deployment process.",
-	"twitter": "",
-	"website": ""
-},{
-    "id": "sp11",
-    "first_name": "Chris",
-    "last_name": "Bland",
-    "company": "Business Data Quality",
-    "title": "CEO",
-    "profile_url": "img/chris-bland.png",
-    "bio": "Chris co-founded Business Data Quality where he has written and sold data analysis and monitoring products from scratch, to enterprise customers such as Swiss Re, Tokio Marine Insurance, Lloyd's, BPP, and the Atomic Weapons Establishment. Chris has years of experience in product architecture and design, with particular familiarity regarding the .NET product stack. Currently, he is focused on the .NET technology stack and creating performant, extensible data governance solutions that can help companies and business users understand how and where data quality is affecting business processes.",
-	"twitter": "",
-	"website": ""
-},{
-    "id": "sp12",
-    "first_name": "David",
-    "last_name": "Williams",
-    "company": "Morgan Stanley",
-    "title": "DBA",
-    "profile_url": "img/placeholder.png",
-    "bio": "David is a cross product DBA (SQL Server, DB2, Oracle, Informix, Sybase) who has worked as a DBA for 20 years for both private, local government and central government customers, and now works at a leading investment bank. Certifications include MCSE 2012 Data Platform, MCTS SQL Server 2008 DBA and Developer as well as certifications in other products.",
-	"twitter": "",
-	"website": ""
-},{
-    "id": "sp13",
-    "first_name": "Bart",
-    "last_name": "Read",
-    "company": "",
-    "title": "Independant Consultant",
-    "profile_url": "img/placeholder.png",
-    "bio": "Bart is an independent consultant, entrepreneur, software developer, writer, and speaker. For the past decade he has built software tools to make the working lives of developers easier. If you're a .NET developer, you might have used some of them.",
-	"twitter": "",
+    "id": "sp16",
+    "first_name": "Annette",
+    "last_name": "Allen",
+    "company": "First Databank",
+    "title": "Database Developer",
+    "profile_url": "img/annette-allen.png",
+    "bio": "Annette has been a SQL Developer since 2000. Her background is in SQL development and team management. For the past 18 months she has been a SQL Database Developer. When not working with SQL, she assists with the running of SQLSouthWest, the Cornwall/Devon/Somerset SQL User Group based in Exeter. She has recently started writing for Simple-Talk and is writing a series of articles on SSIS.",
+	"twitter": "MrsFatherJack",
 	"website": ""
 },{
     "id": "sp20",

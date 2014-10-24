@@ -1,0 +1,131 @@
+[{
+    "id": "sp2",
+    "first_name": "Grant",
+    "last_name": "Fritchey",
+    "company": "Red Gate Software",
+    "title": "SQL Server MVP",
+    "profile_url": "img/grant-fritchey.png",
+    "bio": "Grant Fritchey is a SQL Server MVP with over 20 years experience in IT including time spent in support and development. Grant has worked with SQL Server since version 6.0 back in 1995. He has developed in VB, VB.Net, C# and Java. Grant volunteers at PASS with the Editorial Committee and is president of the Southern New England SQL Server Users Group (SNESSUG). He has authored books for Apress and Simple-Talk, and joined Red Gate as a Product Evangelist in January 2011.",
+	"twitter": "Gfritchey",
+	"website": "http://www.scarydba.com/"
+},{
+    "id": "sp1",
+    "first_name": "Steve",
+    "last_name": "Jones",
+    "company": "Red Gate Software",
+    "title": "SQL Server MVP",
+    "profile_url": "img/steve-jones.png",
+    "bio": "Steve Jones is a Microsoft SQL Server MVP and has been working with SQL Server since version 4.2 on OS/2. After working as a DBA and developer for a variety of companies, Steve co-founded the community website SQLServerCentral.com in 2001. Since 2004, Steve has been the full-time editor of the site, ensuring it continues to be a great resource for SQL Server professionals. Over the last decade, Steve has written hundreds of articles about SQL Server for SQLServerCentral.com, SQL Server Standard magazine, SQL Server Magazine, and Database Journal",
+	"twitter": "way0utwest",
+	"website": "http://www.sqlservercentral.com/"
+},{
+    "id": "sp4",
+    "first_name": "Brian",
+    "last_name": "A. Randell",
+    "company": "MCW Technologies",
+    "title": "",
+    "profile_url": "img/brian-randell.png",
+    "bio": "Brian is a Partner with MCW Technologies LLC. For more than 20 years he has been building software solutions. He educates teams on Microsoft technologies via writing and training - both in-person and on demand. He's also a consultant for companies small and large, worldwide, including Fortune 100 companies like Microsoft. Brian is a passionate software craftsman who still enjoys coding as he helps teams to improve their processes from idea to shipping to production management and monitoring. He's currently a Visual Studio ALM MVP and co-author of \"Professional Application Lifecycle Management with Visual Studio 2013\" from Wrox Publishing.",
+	"twitter": "brianrandell",
+	"website": "http://mcwtech.com/blogs/brianr/"
+},{
+    "id": "sp5",
+    "first_name": "Ike",
+    "last_name": "Ellis",
+    "company": "The Monastery",
+    "title": "Microsoft MVP",
+    "profile_url": "img/ike-ellis.png",
+    "bio": "With over 17 years of experience in databases and a current Microsoft MVP,  Ike has been Microsoft certified since the beginning, currently holding an MCDBA, MCSE, MCSD, and MCT. Ike is currently partner at The Monastery, a software studio with a location in Phoenix. He speaks, writes, and thinks about data all day long.",
+	"twitter": "ike_ellis",
+	"website": "http://www.ikeellis.com/"
+},{
+    "id": "sp6",
+    "first_name": "Annette",
+    "last_name": "Allen",
+    "company": "First Databank",
+    "title": "Database Developer",
+    "profile_url": "img/annette-allen.png",
+    "bio": "Annette has been a SQL Developer since 2000. Her background is in SQL development and team management. For the past 18 months she has been a SQL Database Developer. When not working with SQL, she assists with the running of SQLSouthWest, the Cornwall/Devon/Somerset SQL User Group based in Exeter. She has recently started writing for Simple-Talk and is writing a series of articles on SSIS.",
+	"twitter": "Mrs_Fatherjack",
+	"website": ""
+},{
+    "id": "sp3",
+    "first_name": "John",
+    "last_name": "Theron",
+    "company": "Red Gate Software",
+    "title": "",
+    "profile_url": "img/john-theron.png",
+    "bio": "John's association with Red Gate began in 2006 when he served on Red Gate's first Council of Advisors, and he joined Red Gate full-time in 2011. John has over 20 years of experience in product management and general management positions in large and small software companies including Wonderware, Quest and Rockwell Automation.",
+	"twitter": "",
+	"website": "http://www.red-gate.com"
+},{
+    "id": "sp8",
+    "first_name": "Chris",
+    "last_name": "Hinchcliffe",
+    "company": "Move With Us",
+    "title": "Database Designer/Administrator",
+    "profile_url": "img/chris-hinchcliffe.png",
+    "bio": "Chris has worked with SQL Server since 2006 and currently holds MCTS, MCITP & MCSA certifications. He has been key in implementing source control and continuous integration into the database development lifecycle at Move with Us.",
+	"twitter": "",
+	"website": ""
+},{
+    "id": "sp9",
+    "first_name": "Chris",
+    "last_name": "Lennox-Smith",
+    "company": "Move With Us",
+    "title": "Build and Release Manager",
+    "profile_url": "img/chris-lennox.png",
+    "bio": "Chris has worked in IT for 13 years and has always worked with SQL Server.  A confirmed Jack of all trades, Chris now has the job of making sure that the build, the whole build and nothing but the build is deployed.",
+	"twitter": "",
+	"website": ""
+},{
+    "id": "sp10",
+    "first_name": "Steph",
+    "last_name": "Middleton",
+    "company": "HTEC",
+    "title": "Software Developer",
+    "profile_url": "img/steph-middleton.png",
+    "bio": "Steph is a SQL Server and BI Developer working for a SaaS vendor based in Southampton, delivering enterprise class services that integrate with their customers systems. Currently Steph is leading the migration to SQL Server 2012 of a large scale solution using the whole Microsoft SQL Server Stack, making heavy use of Red Gate products to speed the build, test and deployment process.",
+	"twitter": "",
+	"website": ""
+},{
+    "id": "sp11",
+    "first_name": "Chris",
+    "last_name": "Bland",
+    "company": "Business Data Quality",
+    "title": "CEO",
+    "profile_url": "img/chris-bland.png",
+    "bio": "Chris co-founded Business Data Quality where he has written and sold data analysis and monitoring products from scratch, to enterprise customers such as Swiss Re, Tokio Marine Insurance, Lloyd's, BPP, and the Atomic Weapons Establishment. Chris has years of experience in product architecture and design, with particular familiarity regarding the .NET product stack. Currently, he is focused on the .NET technology stack and creating performant, extensible data governance solutions that can help companies and business users understand how and where data quality is affecting business processes.",
+	"twitter": "",
+	"website": ""
+},{
+    "id": "sp12",
+    "first_name": "David",
+    "last_name": "Williams",
+    "company": "Morgan Stanley",
+    "title": "DBA",
+    "profile_url": "img/placeholder.png",
+    "bio": "David is a cross product DBA (SQL Server, DB2, Oracle, Informix, Sybase) who has worked as a DBA for 20 years for both private, local government and central government customers, and now works at a leading investment bank. Certifications include MCSE 2012 Data Platform, MCTS SQL Server 2008 DBA and Developer as well as certifications in other products.",
+	"twitter": "",
+	"website": ""
+},{
+    "id": "sp13",
+    "first_name": "Bart",
+    "last_name": "Read",
+    "company": "",
+    "title": "Independant Consultant",
+    "profile_url": "img/placeholder.png",
+    "bio": "Bart is an independent consultant, entrepreneur, software developer, writer, and speaker. For the past decade he has built software tools to make the working lives of developers easier. If you're a .NET developer, you might have used some of them.",
+	"twitter": "",
+	"website": ""
+},{
+    "id": "sp20",
+    "first_name": "Red Gate",
+    "last_name": "Team",
+    "company": "Red Gate",
+    "title": "",
+    "profile_url": "img/placeholder.png",
+    "bio": "The Red Gate team are available all day for hands-on demos and chats",
+	"twitter": "http://www.red-gate.com",
+	"website": "redgate"
+}]
