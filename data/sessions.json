@@ -183,7 +183,7 @@
         "description": "Do you need to perform load testing on your database, but don't have enough data? Do you need to provide your app dev team with data, so they can test a new web service? Do you need to mimic skewed data so you can troubleshoot a query?\n\nThen join me in this demo-heavy session, as I show you how SQL Data Generator can solve these problems. You'll learn how to customize faux data to meet your development and testing needs. You'll learn how to create data that mimics a normal distribution of data and a skewed distribution of data. And you'll learn how to manipulate data with Python.",
         "filters": [],
         "locked": false,
-        "speaker_ids": ["sp20"],
+        "speaker_ids": ["sp10"],
         "attachments": [],
         "instances": [
             {
@@ -331,28 +331,6 @@
     },
     {
         "public": true,
-        "id": 16,
-        "name": "Break",
-        "code": null,
-        "description": "Time for networking with attendees, presenters, and Red Gaters",
-        "filters": [],
-        "locked": false,
-        "speaker_ids": ["sp20"],
-        "attachments": [],
-        "instances": [
-            {
-                "id": "10001", 
-				"room_id": "Exhibition room",
-                "duration": "15",
-                "date": "2014-11-03",
-                "time": "15:00",
-                "capacity": 450,
-                "attendance": 0
-            }
-        ]
-    },
-    {
-        "public": true,
         "id": 17,
         "name": "SQL Server tips and tricks",
         "code": null,
@@ -441,50 +419,6 @@
     },
     {
         "public": true,
-        "id": 21,
-        "name": "Community Lightning Talks",
-        "code": null,
-        "description": "At HTEC we had a large development team working – simultaneously – on many projects that used the same database backend. Each project team had their own out-of-sync version of the dev database, and integrating the changes for frequent releases was agonising.\n\nWe'll walk through how we managed to get our databases into source control to painlessly manage changes and deployments – and explain the mistakes we made along the way. You'll learn how to gradually bring your development databases under source control, as well as some of the pitfalls to avoid, and the benefits both in development and deployment.\n\n<strong>Learning outcomes:</strong>\n\nThe steps and tools for implementing database source control and rolling it out across your organisation.\n\nHow you can achieve a reliable and consistent version of your database that can be installed in minutes.\n\nHow using the right tools can achieve an increase in confidence in the code being deployed.\n\nHow to demonstrate the improved time between development and deployment, not least in the time required in QA.",
-        "filters": [],
-        "locked": false,
-        "speaker_ids": ["sp10"],
-        "attachments": [],
-        "instances": [
-            {
-                "id": "10001", 
-				"room_id": "Nesholm Family Lecture Hall",
-                "duration": "30",
-                "date": "2014-11-03",
-                "time": "16:05",
-                "capacity": 48,
-                "attendance": 0
-            }
-        ]
-    },
-    {
-        "public": true,
-        "id": 22,
-        "name": "All day drop-in, hands-on Labs",
-        "code": null,
-        "description": "The hands-on labs give you the opportunity to dig into the tools and processes featured in the main sessions. The hands-on labs room will contain all the equipment and guidance you need to explore Red Gate's solutions at your own pace. The product developers will also be on call if you have any questions. You'll be able to follow step-by-step tutorials on setting up source control for a database, automating testing, and find out what it's like to deploy a database at the push of a button.",
-        "filters": [],
-        "locked": false,
-        "speaker_ids": ["sp20"],
-        "attachments": [],
-        "instances": [
-            {
-                "id": "10001", 
-				"room_id": "Kitchner Room",
-                "duration": "30",
-                "date": "2014-11-03",
-                "time": "16:05",
-                "capacity": 450,
-                "attendance": 0
-            }
-        ]
-    },
-    {
-        "public": true,
         "id": 23,
         "name": "Community lightning talks",
         "code": null,
@@ -530,7 +464,7 @@
     {
         "public": true,
         "id": 25,
-        "name": "Prize draw, continued networking, and drinks",
+        "name": "Prize draw (17:20), continued networking, and drinks",
         "code": null,
         "description": "Prize draw, continued networking, and drinks",
         "filters": [],
