@@ -354,6 +354,9 @@
     <Content Include="js\third-party\underscore.js">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="main.html">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="res\icon\android\icon-36-ldpi.png">
       <SubType>Content</SubType>
     </Content>

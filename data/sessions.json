@@ -45,7 +45,7 @@
     },
     {
         "public": true,
-        "id": 2,
+        "id": 3,
         "name": "Build a database deployment pipeline",
         "code": null,
         "description": "The pace of business is always getting faster and application development moves right with it. But we still deploy databases the same way we did 10 years ago. This session addresses the changes that we need in organizational structure, processes, and technology, to arrive at a nimble, fast, automatable, and continuous database deployment process.\n\nWe'll use actual customer case studies to illustrate the common methods and the unique context that lead to a continuous delivery process which is best described as a pipeline. You will learn how to customize common practices and tool sets to build a database deployment pipeline unique to your environment, so you can speed up your own database delivery while still protecting your organization's most valuable asset: its data.",
@@ -67,7 +67,7 @@
     },
     {
         "public": true,
-        "id": 2,
+        "id": 4,
         "name": "Avoiding a DBA's worst days with monitoring",
         "code": null,
         "description": "When things go wrong with a database, it can be the start of the worst day of a DBA's life. Join Steve Jones as he examines the problems uncovered by The DBA Team and how you can prevent them with proactive monitoring and in-depth knowledge of SQL Server.",
@@ -89,7 +89,7 @@
     },
     {
         "public": true,
-        "id": 3,
+        "id": 5,
         "name": "You did WHAT to my transaction log?!?!",
         "code": null,
         "description": "You won't believe what people will do to their transaction logs when they get into trouble. The log is full! The application is experiencing 9002 errors! What should we do!?\n\nGail and Tony apply commonly suggested advice from Google/Bing search results, and the various forums, in search of the remedy. How bad could it be? Note: No production servers will be harmed during this presentation.",
@@ -111,7 +111,7 @@
     },
 	{
         "public": true,
-        "id": 4,
+        "id": 6,
         "name": "Break",
         "code": null,
         "description": "Time for networking with attendees, presenters, and Red Gaters",
@@ -133,7 +133,7 @@
     },
     {
         "public": true,
-        "id": 5,
+        "id": 7,
         "name": "Version Control for Databases",
         "code": null,
         "description": "Getting your database under version control is ultimately a way of communicating changes and collaborating with team members, maintaining an audit trail and ensuring you always have a version to roll back to.\n\nIn this session, we'll cover why this gives you and your team a crucial advantage in reducing the risk in your development processes. We'll also discuss another door that your team opens by adopting solid version control: setting up the fundamentals of continuous integration. You will learn what build automation means as a first step towards continuous integration and the value it brings as part of your evolving deployment process. We'll also discuss branching strategies, and how to manage this for databases as part of your evolving deployment process.",
@@ -155,7 +155,7 @@
     },
     {
         "public": true,
-        "id": 6,
+        "id": 8,
         "name": "101 stupid things your colleagues do when setting up a SQL Server",
         "code": null,
         "description": "There are some things that you just wish your colleagues had known before they set up and installed SQL Server. A successful installation of SQL Server requires more than someone clicking 'Next' a bunch of times; proper choices need to be made.\n\nIn this session, you'll learn from the mistakes of others, and find out best-practice configurations for the entire infrastructure stack (physical server, storage, virtualization, OS, and SQL Server layers), which will ensure stable performance. This session is for the accidental DBA or anyone who needs to install SQL Server occasionally. Or for their colleagues who need to mop up afterwards!",
@@ -177,7 +177,7 @@
     },
     {
         "public": true,
-        "id": 7,
+        "id": 9,
         "name": "Customize your faux test data with SQL Data Generator",
         "code": null,
         "description": "Do you need to perform load testing on your database, but don't have enough data? Do you need to provide your app dev team with data, so they can test a new web service? Do you need to mimic skewed data so you can troubleshoot a query?\n\nThen join me in this demo-heavy session, as I show you how SQL Data Generator can solve these problems. You'll learn how to customize faux data to meet your development and testing needs. You'll learn how to create data that mimics a normal distribution of data and a skewed distribution of data. And you'll learn how to manipulate data with Python.",
@@ -199,7 +199,7 @@
     },
     {
         "public": true,
-        "id": 8,
+        "id": 10,
         "name": "Lunch, plus demos, discussion groups, and networking",
         "code": null,
         "description": "",
@@ -221,7 +221,7 @@
     },
     {
         "public": true,
-        "id": 9,
+        "id": 11,
         "name": "Get testing with tSQLt – practical examples and automation",
         "code": null,
         "description": "tSQLt is a testing framework designed to help you write repeatable, isolated tests against your database code. In this session, we will briefly examine the goals of testing, where it can be used in an automated deployment pipeline, and introduce you to the tSQLt framework. You'll learn how to incrementally write tests that help you build higher quality code and minimize the introduction of errors against your existing objects. We'll show you how to design and write tests to enforce standards, check calculations and other DML operations, and check exception handling. Plus, you'll see how a real world refactoring task can be tested in a repeatable manner.",
@@ -243,7 +243,7 @@
     },
     {
         "public": true,
-        "id": 10,
+        "id": 12,
         "name": "How to read execution plans",
         "code": null,
         "description": "",
@@ -265,7 +265,7 @@
     },
     {
         "public": true,
-        "id": 11,
+        "id": 13,
         "name": "SQL Server 2014 new features",
         "code": null,
         "description": "There is MUCH more to SQL Server 2014 than just In-Memory OLTP and Updatable Column Store Indexes! This session will be a medium-to-high-level overview of many of the new features and enhancements coming in SQL Server 2014. When I first decided to do this session I was planning on some demos, but there is so much material I can't promise we will get to them!",
@@ -287,7 +287,7 @@
     },
     {
         "public": true,
-        "id": 12,
+        "id": 14,
         "name": "Break – Time for networking with attendees, presenters, and Red Gaters",
         "code": null,
         "description": "",
@@ -309,7 +309,7 @@
     },
     {
         "public": true,
-        "id": 13,
+        "id": 15,
         "name": "Automating your database deployments",
         "code": null,
         "description": "Deploying your database changes to production can be nerve-wracking. We'll discuss methods that take the stress out of the process by ensuring that you practise your deployments using continuous integration before you ever get near production. Automating the deployment and testing processes through your testing and pre-production environments can make the whole experience of production deployments more repeatable, more reliable and more robust.\n\nIn this session, we'll explore the concepts of continuous integration and continuous delivery for databases – what to consider, the challenges, the benefits, the testing, and the crucial approval gates necessary for a reliable production deployment. We'll discuss these and other release strategies as you think about how to evolve your deployment pipeline towards a more automated approach, starting with continuous integration and ending at your production systems.",
@@ -331,7 +331,7 @@
     },
     {
         "public": true,
-        "id": 14,
+        "id": 16,
         "name": "Break",
         "code": null,
         "description": "Time for networking with attendees, presenters, and Red Gaters",
@@ -353,7 +353,7 @@
     },
     {
         "public": true,
-        "id": 15,
+        "id": 17,
         "name": "SQL Server tips and tricks",
         "code": null,
         "description": "Deploying your database changes to production can be nerve-wracking. We'll discuss methods that take the stress out of the process by ensuring that you practise your deployments before you ever get near production. Automating the deployment and testing processes through your testing and pre-production environments can make the whole experience of production deployments more repeatable, more reliable and more robust. In this session, we'll explore the concept of continuous delivery for databases – what to consider, the challenges, the benefits, the testing, and the crucial approval gates necessary for a reliable production deployment. We'll discuss these and other release strategies as you think about how to evolve your deployment pipeline towards a more automated approach, starting with continuous integration and ending at your production systems.",
@@ -375,7 +375,7 @@
     },
     {
         "public": true,
-        "id": 16,
+        "id": 18,
         "name": "Passive security for hostile environments",
         "code": null,
         "description": "Ideal database security settings usually exist in books, but rarely in reality. Is your CIO a member of the sysadmin role because they demanded it? Do some users have rights for purely political reasons? Just because you can't enforce security through typical means doesn't mean you're powerless.\n\nAttend this session to learn about the features SQL Server provides that will allow you to keep track of what your users are up to at all times - and to sleep a little easier. Through various scenarios and demos, you'll see how technologies such as event notifications, auditing, and extended events can help ensure nothing happens on your system without you knowing about it. Even in optimally secured environments these techniques can still come in handy. The best security is often that which cannot be seen.",
@@ -397,7 +397,7 @@
     },
     {
         "public": true,
-        "id": 17,
+        "id": 19,
         "name": "Case study – Keeping pace with Amazon: our journey to continuous delivery for the database",
         "code": null,
         "description": "Amazon's development philosophy is to automate anything that machines do better than people. While the benefits are obvious, it's not so clear how to achieve this - especially for the database. This talk tells the story-so-far of how an ex-Amazon-led team at A Place for Mom (APFM) has implemented continuous delivery for the database backend of their software. You'll learn about the technical and organisational challenges the team faced and the products and resources they're using to overcome them.",
@@ -419,7 +419,7 @@
     },
     {
         "public": true,
-        "id": 18,
+        "id": 20,
         "name": "Case study – Database source control adoption: challenges and opportunities",
         "code": null,
         "description": "Source control is a way of life for developers – it's a way of sharing code, of protecting our work, and of saving our bacon when things go wrong. So why aren't you using it with your database?\n\nTechnology used to be a major issue for many companies - there were few available solutions, so those that did implement database source control had to cobble together their own systems. That issue has largely been overcome in recent years, with the release of lifecycle tools like Red Gate's SQL Source Control. However, the business challenges remain, and they can be quite intimidating, to say the least.\n\nIn this session, I'll describe some of the challenges I've seen, and we'll discuss how the opportunities that lie beyond make the implementation of source control worthwhile.",
@@ -441,7 +441,7 @@
     },
     {
         "public": true,
-        "id": 19,
+        "id": 21,
         "name": "Community Lightning Talks",
         "code": null,
         "description": "At HTEC we had a large development team working – simultaneously – on many projects that used the same database backend. Each project team had their own out-of-sync version of the dev database, and integrating the changes for frequent releases was agonising.\n\nWe'll walk through how we managed to get our databases into source control to painlessly manage changes and deployments – and explain the mistakes we made along the way. You'll learn how to gradually bring your development databases under source control, as well as some of the pitfalls to avoid, and the benefits both in development and deployment.\n\n<strong>Learning outcomes:</strong>\n\nThe steps and tools for implementing database source control and rolling it out across your organisation.\n\nHow you can achieve a reliable and consistent version of your database that can be installed in minutes.\n\nHow using the right tools can achieve an increase in confidence in the code being deployed.\n\nHow to demonstrate the improved time between development and deployment, not least in the time required in QA.",
@@ -463,7 +463,7 @@
     },
     {
         "public": true,
-        "id": 20,
+        "id": 22,
         "name": "All day drop-in, hands-on Labs",
         "code": null,
         "description": "The hands-on labs give you the opportunity to dig into the tools and processes featured in the main sessions. The hands-on labs room will contain all the equipment and guidance you need to explore Red Gate's solutions at your own pace. The product developers will also be on call if you have any questions. You'll be able to follow step-by-step tutorials on setting up source control for a database, automating testing, and find out what it's like to deploy a database at the push of a button.",
@@ -485,7 +485,7 @@
     },
     {
         "public": true,
-        "id": 21,
+        "id": 23,
         "name": "Community lightning talks",
         "code": null,
         "description": "Murilo Miranda\nsBuffer pool extension (BPE)\n\nMickey Stuewe\nFinding the delta with SQL Compare and backups\n\nKevin Boles\nFinding performance issues – the big three\n\nAnnette Allen\nWhat's hot and what's not when writing unit tests",
@@ -507,7 +507,7 @@
     },
     {
         "public": true,
-        "id": 23,
+        "id": 24,
         "name": "Drinks, networking, and discussions with Red Gaters",
         "code": null,
         "description": "",
@@ -529,7 +529,7 @@
     },
     {
         "public": true,
-        "id": 24,
+        "id": 25,
         "name": "Prize draw, continued networking, and drinks",
         "code": null,
         "description": "Prize draw, continued networking, and drinks",
